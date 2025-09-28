@@ -1,0 +1,33 @@
+# Git файлы
+.git
+.gitignore
+
+# Docker файлы
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Загруженные файлы
+uploads/
+data/
+
+# Временные файлы
+*.tmp
+*.log
+
+# IDE файлы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS файлы
+.DS_Store
+Thumbs.db
+
+# Go модули (go.mod и go.sum нужны для сборки)
+# go.mod
+# go.sum
+
+# Документация
+README.md
